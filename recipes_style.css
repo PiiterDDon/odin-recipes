@@ -11,7 +11,7 @@ h2 {
 }
 
 p {
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: larger;
 }
 
@@ -31,6 +31,14 @@ body {
     background-color: burlywood;
 }
 
-em{
+em {
     font-family: cursive;
+}
+
+.bx {
+    color: black;
+}
+
+.bx:hover{
+    color: orangered;
 }
